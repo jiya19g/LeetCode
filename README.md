@@ -33,3 +33,22 @@ To use any of the solutions:
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/LeetCode-Solutions.git
+
+
+## Contributing
+
+Contributions are always welcome! Feel free to fork this repository, add your own solutions, and make a pull request.
+
+If you find any bugs or have suggestions, please open an issue.
+
+## Credits
+
+Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush).
+
+### Made by
+
+- Tut: [GitHub](https://github.com/TutTrue) - [LinkedIn](https://www.linkedin.com/in/mahmoud-hamdy-8b6825245/)
+- Hüsam: [GitHub](https://github.com/husamahmud) - [LinkedIn](https://www.linkedin.com/in/husamahmud/)
+
+Happy coding! 🚀
+
