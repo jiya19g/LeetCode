@@ -5,8 +5,6 @@ This repository contains my solutions to various **LeetCode** problems. Each sol
 ## Table of Contents
 - [Introduction](#introduction)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [Credits](#credits)
 - [License](#license)
 
 ## Introduction
@@ -22,13 +20,6 @@ Fork this repository.
 Add your solution or improvements.
 Make a pull request, and I will review it as soon as possible.
 If you encounter any bugs or have suggestions, feel free to open an issue.
-
-## Credits
-This repository was created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush).
-
-### Contributors:
-- **Tut**: [GitHub](https://github.com/TutTrue) | [LinkedIn](https://www.linkedin.com/in/mahmoud-hamdy-8b6825245/)
-- **Hüsam**: [GitHub](https://github.com/husamahmud) | [LinkedIn](https://www.linkedin.com/in/husamahmud/)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
